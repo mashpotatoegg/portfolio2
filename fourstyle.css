@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+html{
+font-size:16px;
+}
+
 body{
   color: #000;
   font-size: 0.875rem;
